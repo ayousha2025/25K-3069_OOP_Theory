@@ -65,9 +65,6 @@ Create an interface named: TaxCalculator which declares the following methods:
 => double calculateImportDuty();  
 => double calculateSalesTax();  
 => double calculateGST(double amount);  
-Ensure that the appropriate classes implement this interface.  
-Explain which Java feature is used to achieve this.  
-
-
+Ensure that the appropriate classes implement this interface. 
 
 Do you want me to do that?
