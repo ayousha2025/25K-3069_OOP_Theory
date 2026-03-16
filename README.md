@@ -67,4 +67,3 @@ Create an interface named: TaxCalculator which declares the following methods:
 => double calculateGST(double amount);  
 Ensure that the appropriate classes implement this interface. 
 
-Do you want me to do that?
